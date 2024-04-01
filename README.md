@@ -5,6 +5,7 @@
 
 ## Node.js系列
 1. [MySql学习随记](https://github.com/Aspartame-s/Blog/issues/1)
+2. [本地启动项目步骤记录](https://github.com/Aspartame-s/Blog/issues/4)
 
 ## 算法系列
 1. [编辑距离 动态规划](https://github.com/Aspartame-s/Blog/issues/3)
