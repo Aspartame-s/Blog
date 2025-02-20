@@ -6,6 +6,7 @@
 ## Node.js系列
 1. [MySql学习随记](https://github.com/Aspartame-s/Blog/issues/1)
 2. [本地启动项目步骤记录](https://github.com/Aspartame-s/Blog/issues/4)
+3. [docker部署流程](https://blog.csdn.net/c327127960/article/details/145725402?spm=1001.2014.3001.5501)
 
 ## 算法系列
 1. [编辑距离 动态规划](https://github.com/Aspartame-s/Blog/issues/3)
